@@ -1,6 +1,6 @@
 # Spectacle presentation boilerplate
 
-Boilerplate for presentations that use the [Spectacle](https://github.com/FormidableLabs/spectacle) library  with [Spectacle code slide](https://github.com/jamiebuilds/spectacle-code-slide) and [Spectacle terminal](https://github.com/elijahmanor/spectacle-terminal) extensions.
+Boilerplate for presentations that use the [Spectacle](https://github.com/FormidableLabs/spectacle) library  with [Spectacle code slide](https://github.com/jamiebuilds/spectacle-code-slide) and [Spectacle terminal](https://github.com/elijahmanor/spectacle-terminal) extensions. [Check out the demo](https://jpetuchovas.github.io/spectacle-presentation-boilerplate/).
 
 # Usage
 
