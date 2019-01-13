@@ -108,7 +108,6 @@ export default class Presentation extends React.Component {
         </Slide>
 
         <CodeSlide
-          transition={[]}
           lang="json"
           textSize="1.75vw"
           bgColor="primary"
